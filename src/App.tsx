@@ -111,7 +111,6 @@ export default function App() {
     <div className="min-h-screen bg-gradient-to-br from-emerald-950 via-emerald-900 to-teal-950 text-slate-800 flex flex-col selection:bg-emerald-500 selection:text-white">
       {/* Top Header */}
       <Header
-        isSupabaseConfigured={isSupabaseConfigured}
         onOpenSettings={() => setIsSettingsOpen(true)}
       />
 
