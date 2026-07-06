@@ -1,0 +1,6 @@
+{
+  "name": "EVECA - Capacitación PGIRS",
+  "description": "Aplicación web de evaluación para capacitación de gestión ambiental en extractora de aceite de palma",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
